@@ -1,5 +1,6 @@
-# learning
-### Exercise1: Jovian - DataAnalysis
+# Learning
+
+# Exercise1: Jovian - DataAnalysis
 
 Theme: Took out an IPL statistics, and gathered data from kaggle and found out some insights with the data with my own questionarie. 
 
@@ -7,8 +8,8 @@ Theme: Took out an IPL statistics, and gathered data from kaggle and found out s
 
 Domain: Data analysis, Finding some useful insights. 
 
-Technology/Libraries:
---------------------
+### Technology/Libraries:
+    --------------------
 Coding: Python
 Data Handling: pandas, numpy
 Visualization: matplotlib, seaborn.
@@ -23,14 +24,14 @@ IPL(Indian premier League), is a league where cricketers show their ability in t
 
 
 
-### Exercise2: codebasics-python
+# Exercise2: codebasics-python
 
 Theme: Learnt from course, Its a medical industry project where the medical data is examined and got some insights such as name of patient and age, etc.. to keep track of his medical record.
 
 Domain : Data Extraction, Data Analysis, Front-end(Not tried), Back-end.
 
-Technology/Libraries:
---------------------
+### Technology/Libraries:
+   --------------------
 Coding: Python 
 Data Extraction: OpenCV 
 - pytests.
