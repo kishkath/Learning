@@ -3,6 +3,8 @@
 
 Theme: Took out an IPL statistics, and gathered data from kaggle and found out some insights with the data with my own questionarie. 
 
+![ipl](https://user-images.githubusercontent.com/60026221/206360201-462a02f4-73de-4fff-9742-9ab159d4e41d.jpg)
+
 Domain: Data analysis, Finding some useful insights. 
 
 Technology/Libraries:
@@ -16,7 +18,10 @@ Featured Notebooks in https://jovian.ai/kishkath
 
 IPL(Indian premier League), is a league where cricketers show their ability in the quickest format which can turn tables around in span of 1 or 2 overs/balls. I had taken the statistics and considered the batsmen scores and team  scores for the analysis, and made some insights for some questions and visualized it as per data. 
 
-===================================================================================================
+
+
+
+
 
 ### Exercise2: codebasics-python
 
