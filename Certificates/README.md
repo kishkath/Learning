@@ -1,5 +1,5 @@
 
-Certificates of courses studied
+List of Courses Completed: 
 
 
 ![image](https://user-images.githubusercontent.com/60026221/234749857-0e8e8126-5d72-4f6a-87a5-b1374730b5a5.png)
