@@ -44,4 +44,15 @@ Data Extraction: OpenCV
 5. Front End part is not done.
 
 
+## MATHEMATICS
+
+Resources: 
+
+Main: 
+
+A. https://www.3blue1brown.com/
+B. https://www.khanacademy.org/math/linear-algebra
+C. https://github.com/dair-ai/Mathematics-for-ML?tab=readme-ov-file
+
+
 
